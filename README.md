@@ -1,3 +1,3 @@
 # Fiap-Tech-Ninjas
 
-Projeto funcional em https://health-ledger-fiap.web.app/cadastrar
+Projeto funcional em https://health-ledger-fiap.web.app
