@@ -1,0 +1,14 @@
+.sidebar {
+    position: sticky;
+    width: 280px;
+    height: 100%;    
+    height: -webkit-fill-available;
+}
+
+.mat-icon {
+    vertical-align: middle;
+}
+
+.text-dark {
+    color: #000;
+}
